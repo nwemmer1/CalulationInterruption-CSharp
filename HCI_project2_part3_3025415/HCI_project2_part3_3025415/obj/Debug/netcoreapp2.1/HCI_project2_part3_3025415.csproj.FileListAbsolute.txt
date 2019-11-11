@@ -1,0 +1,11 @@
+C:\Users\Nathan\source\repos\HCI_project2_part3_3025415\HCI_project2_part3_3025415\bin\Debug\netcoreapp2.1\HCI_project2_part3_3025415.deps.json
+C:\Users\Nathan\source\repos\HCI_project2_part3_3025415\HCI_project2_part3_3025415\bin\Debug\netcoreapp2.1\HCI_project2_part3_3025415.runtimeconfig.json
+C:\Users\Nathan\source\repos\HCI_project2_part3_3025415\HCI_project2_part3_3025415\bin\Debug\netcoreapp2.1\HCI_project2_part3_3025415.runtimeconfig.dev.json
+C:\Users\Nathan\source\repos\HCI_project2_part3_3025415\HCI_project2_part3_3025415\bin\Debug\netcoreapp2.1\HCI_project2_part3_3025415.dll
+C:\Users\Nathan\source\repos\HCI_project2_part3_3025415\HCI_project2_part3_3025415\bin\Debug\netcoreapp2.1\HCI_project2_part3_3025415.pdb
+C:\Users\Nathan\source\repos\HCI_project2_part3_3025415\HCI_project2_part3_3025415\obj\Debug\netcoreapp2.1\HCI_project2_part3_3025415.csprojAssemblyReference.cache
+C:\Users\Nathan\source\repos\HCI_project2_part3_3025415\HCI_project2_part3_3025415\obj\Debug\netcoreapp2.1\HCI_project2_part3_3025415.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\HCI_project2_part3_3025415\HCI_project2_part3_3025415\obj\Debug\netcoreapp2.1\HCI_project2_part3_3025415.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\HCI_project2_part3_3025415\HCI_project2_part3_3025415\obj\Debug\netcoreapp2.1\HCI_project2_part3_3025415.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\HCI_project2_part3_3025415\HCI_project2_part3_3025415\obj\Debug\netcoreapp2.1\HCI_project2_part3_3025415.dll
+C:\Users\Nathan\source\repos\HCI_project2_part3_3025415\HCI_project2_part3_3025415\obj\Debug\netcoreapp2.1\HCI_project2_part3_3025415.pdb
